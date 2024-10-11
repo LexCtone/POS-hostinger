@@ -1,0 +1,17 @@
+Dropped existing procedure.
+Stored procedure created.
+Received data: {"invoice":"20241011899583293","totalAmount":25,"voidBy":"cashier","cancelReason":"asd"}
+Data validated successfully.
+Statement prepared successfully.
+Error: Table 'u429621164_sv_hardware_db.debug_logs' doesn't exist
+Dropped existing procedure.
+Stored procedure created.
+Received data: {"invoice":"20241011899583293","totalAmount":25,"voidBy":"cashier","cancelReason":"asd"}
+Data validated successfully.
+Statement prepared successfully.
+Error: Table 'u429621164_sv_hardware_db.debug_logs' doesn't exist
+Stored procedure created.
+Received data: {"invoice":"20241011139338560","totalAmount":50,"voidBy":"cashier","cancelReason":"asd"}
+Data validated successfully.
+Statement prepared successfully.
+Statement executed successfully.

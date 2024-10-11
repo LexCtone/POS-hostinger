@@ -30,3 +30,5 @@
 [2024-10-05 18:08:28] process_adjustment.php: Received data - product_id: 15, adjustment_quantity: 7, adjustment_reason: dagdag lang man, barcode: 200110212312, reference: adjustment_reference
 [2024-10-05 18:08:45] process_adjustment.php: Received data - product_id: 15, adjustment_quantity: 5, adjustment_reason: ASD, barcode: 200110212312, reference: adjustment_reference
 [2024-10-05 18:12:38] process_adjustment.php: Received data - product_id: 15, adjustment_quantity: -10, adjustment_reason: asd, barcode: 200110212312, reference: adjustment_reference
+[2024-10-07 04:57:10] process_adjustment.php: Received data - product_id: 2, adjustment_quantity: 1, adjustment_reason: kulang ng isang pasok, barcode: 123, reference: adjustment_reference
+[2024-10-07 05:59:51] process_adjustment.php: Received data - product_id: 2, adjustment_quantity: 1, adjustment_reason: asd, barcode: 200110212312, reference: adjustment_reference
